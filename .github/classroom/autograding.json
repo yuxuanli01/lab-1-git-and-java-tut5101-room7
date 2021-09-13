@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "IntroLabTest Test Cases",
+      "setup": "",
+      "run": "gradle test --tests IntroLabTest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
